@@ -1,10 +1,10 @@
 # WEB102 Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Kimone Walker
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+GameFuns is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 7 hours spent in total
 
 ## Required Features
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/t2UR5xt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -36,9 +36,12 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Challenge 2 was particularly hard for me i had to use the Slack to understand what I was doing wrong
+
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Kim CodePath
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
