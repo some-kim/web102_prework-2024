@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Game Display*
 
 Submitted by: Kimone Walker (submitted project last prework cycle)
 
@@ -24,6 +24,12 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/t2UR5xt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+https://imgur.com/a/LcHWHtI.gif
+
+
+![](https://imgur.com/a/LcHWHtI.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
